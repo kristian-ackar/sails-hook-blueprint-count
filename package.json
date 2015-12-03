@@ -1,0 +1,30 @@
+{
+  "name": "sails-hook-blueprint-count",
+  "version": "0.0.1",
+  "description": "Add default blueprint count route to evry model",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kristian-ackar/sails-hook-blueprint-count.git"
+  },
+  "dependencies": {
+    "lodash": "3.10.1",
+    "pluralize": "1.2.1 "
+  },
+  "sails": {
+    "isHook": true
+  },
+  "author": "Kristian Ačkar",
+  "license": "MIT",
+  "keywords": [
+    "sails",
+    "blueprint",
+    "hook",
+    "count"
+  ],
+  "bugs": {
+    "url": "https://github.com/kristian-ackar/sails-hook-blueprint-count/issues"
+  },
+  "homepage": "https://github.com/kristian-ackar/sails-hook-blueprint-count"
+}
