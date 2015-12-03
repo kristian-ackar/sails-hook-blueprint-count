@@ -1,6 +1,6 @@
 {
   "name": "sails-hook-blueprint-count",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Add default blueprint count route to evry model",
   "main": "index.js",
   "scripts": {},
@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "lodash": "3.10.1",
-    "pluralize": "1.2.1 "
+    "pluralize": "1.2.1"
+    "merge-defaults": "0.2.1"
   },
   "sails": {
     "isHook": true
